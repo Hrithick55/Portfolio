@@ -1,9 +1,5 @@
 {
-  "version": 2,
-  "builds": [
-    { "src": "Portfolio/**", "use": "@vercel/static" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "Portfolio/$1" }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
