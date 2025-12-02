@@ -14,7 +14,6 @@ This portfolio showcases my skills, projects, and contact information.
 
 ## 🚀 Live Demo
 🔗 [View Portfolio](https://your-username.github.io/your-repo-name/)  
-_(Replace with your actual GitHub Pages link once deployed)_
 
 ---
 
